@@ -1,3 +1,6 @@
 [submodule "hello_foundry"]
 	path = hello_foundry
 	url = git@github.com:rohit-sekhri51/hello_foundry.git
+[submodule "hello_template"]
+	path = hello_template
+	url = git@github.com:rohit-sekhri51/hello_template.git
