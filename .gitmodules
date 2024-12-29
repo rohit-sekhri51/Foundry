@@ -4,3 +4,9 @@
 [submodule "hello_template"]
 	path = hello_template
 	url = git@github.com:rohit-sekhri51/hello_template.git
+[submodule "BrigdeETH"]
+	path = BrigdeETH
+	url = git@github.com:rohit-sekhri51/BrigdeETH.git
+[submodule "BridgeETH"]
+	path = BridgeETH
+	url = git@github.com:rohit-sekhri51/BridgeETH.git
